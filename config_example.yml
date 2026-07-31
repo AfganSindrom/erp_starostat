@@ -1,0 +1,16 @@
+config:
+  current:
+group:
+  cipher:
+  name:
+  speciality:
+university:
+  departament:
+  full_name:
+  institute:
+  last_name:
+  status:
+user:
+  first_name:
+  last_name:
+  otch:
